@@ -1,4 +1,4 @@
-How to clone in VsCode:
+How to a Github repository clone in VsCode:
 https://youtu.be/ILJ4dfOL7zs?si=m-8lNxc9LGyy227v
 
 HOW to commit in VsCode:
